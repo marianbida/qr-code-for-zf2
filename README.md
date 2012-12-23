@@ -18,4 +18,4 @@ This a lib for Zend Framework 2 to make QR Code from some string given, a portin
 Installation and Requirements
 -----------------------------
 
-This library requires Zend Framework 2 and GD2 PHP extension.e
+This library requires Zend Framework 2 and GD2 PHP extension.
