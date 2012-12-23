@@ -6,6 +6,12 @@
         "zf2",
         "qrcode"
     ],
+     "authors": [
+        {
+            "name": "Marian Bida",
+            "email": "marian.bida@gmail.com"
+        }
+    ],
     "require": {
         "php": ">=5.3.3"
     }
