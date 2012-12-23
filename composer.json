@@ -1,0 +1,12 @@
+{
+    "name": "marianbida/qr-code-for-zf2",
+    "description": "QR Code generator for Zend Framework 2",
+    "license": "BSD-3-Clause",
+    "keywords": [
+        "zf2",
+        "qrcode"
+    ],
+    "require": {
+        "php": ">=5.3.3"
+    }
+}
